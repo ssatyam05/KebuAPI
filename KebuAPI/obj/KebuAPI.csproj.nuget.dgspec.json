@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My Projects\\KebuAPI\\KebuAPI\\KebuAPI.csproj": {}
+    "D:\\Repository\\KebuAPI\\KebuAPI\\KebuAPI.csproj": {}
   },
   "projects": {
-    "D:\\My Projects\\KebuAPI\\KebuAPI\\KebuAPI.csproj": {
+    "D:\\Repository\\KebuAPI\\KebuAPI\\KebuAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Projects\\KebuAPI\\KebuAPI\\KebuAPI.csproj",
+        "projectUniqueName": "D:\\Repository\\KebuAPI\\KebuAPI\\KebuAPI.csproj",
         "projectName": "KebuAPI",
-        "projectPath": "D:\\My Projects\\KebuAPI\\KebuAPI\\KebuAPI.csproj",
+        "projectPath": "D:\\Repository\\KebuAPI\\KebuAPI\\KebuAPI.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\My Projects\\KebuAPI\\KebuAPI\\obj\\",
+        "outputPath": "D:\\Repository\\KebuAPI\\KebuAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
