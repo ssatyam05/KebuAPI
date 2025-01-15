@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KebuAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c20392edc09e254dfc29e7f6a9a45c833447a91d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53617dd2e1b1649fe2b29a988ed2a344e71a5e52")]
 [assembly: System.Reflection.AssemblyProductAttribute("KebuAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KebuAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
